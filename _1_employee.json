@@ -1,0 +1,44 @@
+{
+    "emoployee_details":
+    [
+
+        {  
+        "name" :"Atul",
+        "DOB"  :"01/01/1998",
+        "Height" :"5.4",
+        "city" :"AKola",
+        "state" :"Maharastra"
+        
+        },
+        {
+        "name" :"Ravi",
+        "DOB"  :"04/09/1996",
+        "Height" :"5.7",
+        "city" :"pune",
+        "state" :"Maharastra"
+        },
+        {
+        "name" :"Suresh",
+        "DOB"  :"23/11/1991",
+        "Height" :"5.6",
+        "city" :"surat",
+        "state" :"Gujrat"
+        },
+        {
+        "name" :"raj",
+        "DOB"  : "30/09/1989",
+        "Height" :"6.0",
+        "city" : "Bhopal",
+        "state" :"Madhya Pradesh"
+        },
+        {
+        "name" :"Anuj",
+        "DOB"  :"12/08/1994",
+        "Height" :"5.8",
+        "city" :"Banglore",
+        "state" :"Karnataka"
+        }
+    ]
+
+}
+
